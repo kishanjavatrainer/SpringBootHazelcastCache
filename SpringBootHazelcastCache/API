@@ -1,0 +1,9 @@
+----------------------------------------------------------------------------------
+getTicketById::
+http://localhost:8080/api/tickets/ticket/{ticketId}
+----------------------------------------------------------------------------------
+deleteTicket::
+http://localhost:8080/api/tickets/ticket/{ticketId}
+----------------------------------------------------------------------------------
+updateTicket::
+http://localhost:8080/api/tickets/ticket/{ticketId}/{newEmail:.+}
